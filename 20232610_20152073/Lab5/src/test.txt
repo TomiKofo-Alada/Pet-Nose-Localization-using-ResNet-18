@@ -1,0 +1,1 @@
+python test.py --data-dir ./images --annotation-file ./test_noses.txt --model-path ./trained_model.pth
