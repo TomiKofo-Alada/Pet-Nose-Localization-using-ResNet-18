@@ -35,14 +35,6 @@ This project implements a modified ResNet-18 model to detect and localize pet no
 - **Minimum Distance**: 0.0016
 - **Maximum Distance**: 0.3923
 
-### Training Loss Over Epochs
-![Loss Over Epochs](20232610_20152073\Lab5\src\output\model_loss_plot.png)
-
-### Example Predictions
-The following images demonstrate the overlayed keypoints predicted by the model:
-- **Prediction 1**: ![predicted_keypoint_0.png](20232610_20152073\Lab5\src\predicted_keypoint_0.png)
-- **Prediction 2**: ![predicted_keypoint_1.png](20232610_20152073\Lab5\src\predicted_keypoint_1.png)
-- **Prediction 3**: ![predicted_keypoint_2.png](20232610_20152073\Lab5\src\predicted_keypoint_2.png)
 
 ---
 
